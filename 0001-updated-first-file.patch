@@ -1,0 +1,24 @@
+From 73b462faa715f7847baca23840fa4f219e94a8a9 Mon Sep 17 00:00:00 2001
+From: Kateryna Hratilova <gr.katrin.05@gmail.com>
+Date: Wed, 22 Jan 2025 17:20:50 +0200
+Subject: [PATCH] updated first file
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index f00c965..fbdb497 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,5 +1,5 @@
+-1
+-2
++1 git1
++2 git1
+ 3
+ 4
+ 5
+-- 
+2.47.1.windows.2
+
